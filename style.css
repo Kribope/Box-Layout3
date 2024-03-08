@@ -1,0 +1,43 @@
+*{
+    border: 1px solid #000;
+    margin: 5px;
+    text-align: center;
+
+}
+header{
+    padding: 30px;
+}
+nav{
+    padding: 30px;
+}
+main{
+    margin: auto;
+    width: 25%;
+    padding: 28vh;
+}
+aside:first-child{
+    position: absolute;
+    top: 22.5%;
+    left: 0.73%;
+    width: 21.8%;
+    height: 58.7%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+aside:nth-child(2){
+    position: absolute;
+    top: 22.5%;
+    left: 76.72%;
+    width: 21.8%;
+    height: 58.7%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section{
+    border: none;
+}
+footer{
+    padding: 30px;
+}
