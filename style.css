@@ -2,7 +2,10 @@
     border: 1px solid #000;
     margin: 5px;
     text-align: center;
-
+    font-family: system-ui; 
+    font-size: 20px;
+    color: #317804;
+    font-weight: bold;
 }
 header{
     padding: 30px;
@@ -17,20 +20,20 @@ main{
 }
 aside:first-child{
     position: absolute;
-    top: 22.5%;
+    top: 24.7%;
     left: 0.73%;
     width: 21.8%;
-    height: 58.7%;
+    height: 59.8%;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 aside:nth-child(2){
     position: absolute;
-    top: 22.5%;
+    top: 24.7%;
     left: 76.72%;
     width: 21.8%;
-    height: 58.7%;
+    height: 59.8%;
     display: flex;
     justify-content: center;
     align-items: center;
